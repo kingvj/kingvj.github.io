@@ -55,4 +55,8 @@ You can sign up for the service by doing the following steps:
 
 4) Enjoy the content !
 
-Go to learn how to setup your menu, [click here](setting-up-menu.md)
+-----------------------------------
+
+To learn how to setup your menu, [click here](setting-up-menu.md)
+
+To learn how to setup your quality for a better experience, [click here](quality-setup.md)
