@@ -54,3 +54,5 @@ You can sign up for the service by doing the following steps:
 3) Message me once you've created your account
 
 4) Enjoy the content !
+
+<a href="account-setup.md">Test Button</a>
