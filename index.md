@@ -1,61 +1,43 @@
 ## Welcome to VJ's Media Server
 
-You can sign up for the service by doing the following steps:
+Forget about Netflix and chill, it's all about the Plex and Sex!
 
-1) Create an account on Plex by clicking <a href="https://www.plex.tv/sign-up/">here</a> (It's free to sign up)
+This service has shows and movies from Disney+, Hulu, Amazon Prime, Netflix, HBO, Showtime and more.
 
-2) Sign up for one of the following services by pressing on the button below
+All in one place, for one price (10$/per month) 
 
-## Basic Monthly Billing (TV Shows + Movies)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="HLVXSK538NRQA">
-<table>
-<tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
-</table>
-<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+Here is some of the content this service provides:
 
-## Basic Yearly Billing (TV Shows + Movies)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JSE8EP2KRWRHJ">
-<table>
-<tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
-</table>
-<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<img width="1200" alt="Screen Shot 2021-02-02 at 5 04 05 PM" src="https://user-images.githubusercontent.com/15919175/106675846-d692d400-6583-11eb-8761-c30d3fecdb34.png">
 
-## Anime Monthly Billing  (Anime Shows + Anime Movies)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="YYR78P57XGGKN">
-<table>
-<tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
-</table>
-<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<img width="1179" alt="Screen Shot 2021-02-02 at 5 00 25 PM" src="https://user-images.githubusercontent.com/15919175/106676068-3ab59800-6584-11eb-8f3f-02d881bead59.png">
 
-## Anime + Basic Monthly Billing  (TV Shows, Movies ,Anime Shows + Anime Movies)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="GZ3YPWMJ5BZZ2">
-<table>
-<tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
-</table>
-<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<img width="1193" alt="Screen Shot 2021-02-02 at 5 16 02 PM" src="https://user-images.githubusercontent.com/15919175/106675799-c4b13100-6583-11eb-9c63-6486e04011af.png">
+
+<img width="1201" alt="Screen Shot 2021-02-02 at 5 13 24 PM" src="https://user-images.githubusercontent.com/15919175/106675806-c8dd4e80-6583-11eb-8fcd-552ca970c50b.png">
+
+<img width="1182" alt="Screen Shot 2021-02-02 at 5 17 15 PM" src="https://user-images.githubusercontent.com/15919175/106675766-b82cd880-6583-11eb-840c-7633dde4e52d.png">
+
+<img width="1190" alt="Screen Shot 2021-02-02 at 5 16 50 PM" src="https://user-images.githubusercontent.com/15919175/106675784-bebb5000-6583-11eb-92a3-f7dedf6d8503.png">
+
+<img width="1181" alt="Screen Shot 2021-02-02 at 5 11 53 PM" src="https://user-images.githubusercontent.com/15919175/106675815-cd096c00-6583-11eb-9f5c-3bf0bbe5a4f3.png">
+
+<img width="1171" alt="Screen Shot 2021-02-02 at 5 11 36 PM" src="https://user-images.githubusercontent.com/15919175/106675833-d266b680-6583-11eb-92d2-1551b1923a38.png">
+
+<img width="1174" alt="Screen Shot 2021-02-02 at 5 21 13 PM" src="https://user-images.githubusercontent.com/15919175/106675774-bbc05f80-6583-11eb-88a5-69ad73175ab6.png">
 
 
-3) Message me once you've created your account
 
-4) Enjoy the content !
+
+
+
+
 
 -----------------------------------
+
+To sign up for a service, [click here](signup.md)
+
+To see pricing for a specific service, [click here](pricing.md)
 
 To learn how to setup your menu, [click here](setting-up-menu.md)
 
