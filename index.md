@@ -61,4 +61,4 @@ To learn how to setup your menu, [click here](setting-up-menu.md)
 
 To learn how to setup your quality for a better experience, [click here](quality-setup.md)
 
-To make a request for me to add something to Plex, please fill out the form [found here] (https://docs.google.com/forms/d/e/1FAIpQLSfxKAk09IIOzQ_fBK-R24uSLZHSkNBVi5nmN9z9uCoXAss_PQ/viewform?usp=sf_link)
+To make a request for me to add something to Plex, please fill out the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxKAk09IIOzQ_fBK-R24uSLZHSkNBVi5nmN9z9uCoXAss_PQ/viewform?usp=sf_link">found here</a> 
