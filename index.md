@@ -56,3 +56,5 @@ You can sign up for the service by doing the following steps:
 4) Enjoy the content !
 
 <a href="account-setup.md">Test Button</a>
+
+Go to [about page](account-setup.md)
