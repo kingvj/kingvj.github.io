@@ -1,6 +1,6 @@
 ---
 title: How to setup your account
-layout: template
+layout: jekyll-theme-tactile
 filename: account-setup.md
 --- 
 
