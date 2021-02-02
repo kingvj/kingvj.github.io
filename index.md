@@ -55,4 +55,4 @@ You can sign up for the service by doing the following steps:
 
 4) Enjoy the content !
 
-<a href="account-setup">Test Button</a>
+<a href="account-setup.md">Test Button</a>
