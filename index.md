@@ -4,7 +4,7 @@ Forget about Netflix and chill, it's all about the Plex and Sex!
 
 This service has shows and movies from Disney+, Hulu, Amazon Prime, Netflix, HBO, Showtime and more.
 
-All in one place, for one price (10$/per month) 
+All in one place, for one price. To see pricing for a specific service, [click here](pricing.md)
 
 Here is some of the content this service provides:
 
