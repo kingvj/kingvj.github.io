@@ -61,3 +61,5 @@ You can sign up for the service of your choice by doing the following steps:
 3) Message me once you've created your account
 
 4) Enjoy the content !
+
+To make a request for me to add something to Plex, please fill out the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxKAk09IIOzQ_fBK-R24uSLZHSkNBVi5nmN9z9uCoXAss_PQ/viewform?usp=sf_link">found here</a> 
