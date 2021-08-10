@@ -1,4 +1,4 @@
-## Welcome to VJ's Media Server
+## Welcome to Plex Is Amazing
 
 Forget about Netflix and chill, it's all about the Plex and Sex!
 
