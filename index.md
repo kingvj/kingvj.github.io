@@ -1,10 +1,8 @@
 ## Welcome to Plex Is Amazing
 
-Forget about Netflix and chill, it's all about the Plex and Sex!
+Forget about Netflix, Hulu and all those other streaming services. Get all of those services and more in one place!
 
-This service has shows and movies from Disney+, Hulu, Amazon Prime, Netflix, HBO, Showtime and more.
-
-All in one place, for one price. To see pricing for a specific service, [click here](pricing.md)
+To see pricing for a specific service, [click here](pricing.md)
 
 Here is some of the content this service provides:
 
