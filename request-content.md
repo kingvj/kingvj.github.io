@@ -36,6 +36,6 @@ With this, you will be able to requests multiple shows and movies if they aren't
 
 You can go to the request page and view the status of the request or simply go on Plex to see if it's there
 
-## Some requests take longer than others. Give it about an hour for the content to be uploaded. Thanks!
+## Some requests take longer than others. Give it about a day for the content to be uploaded. Thanks!
 
 <img alt="Screen Shot 2021-02-02 at 2 48 02 AM" src="https://user-images.githubusercontent.com/15919175/143963715-3df60ffa-62f1-4b1c-a4bb-718b3aa4e4af.PNG">
