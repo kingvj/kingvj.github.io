@@ -37,6 +37,8 @@ To sign up for a service, [click here](signup.md)
 
 To see pricing for a specific service, [click here](pricing.md)
 
+To request specific content, [click here](request-content.md)
+
 To learn how to setup your menu, [click here](setting-up-menu.md)
 
 To learn how to setup your quality for a better experience, [click here](quality-setup.md)
