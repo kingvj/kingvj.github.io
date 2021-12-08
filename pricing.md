@@ -10,7 +10,7 @@ Here are the current pricing plans:
 
 | **Services** | **Monthly Price** | **Yearly Price** | **# of Simultaneous Streams** |
 | :---         |     :---:      |         :---: |           :---: |
-| Basic Anime and Anime Movies Only Package  | 5$     | 50$    | 1   |
+| Basic Anime and Anime Movies Only Package  | `5$`    | **50$**    | 1   |
 | Basic TV Shows and Movies Only Package    | 10$      | 100$      | 1     |
 | Basic Anime, Anime Movies, TV Shows and Movies Package  | 13$    | 120$    | 1   |
 | Basic Other Only Package    | 7$       | 70$      | 1     |
