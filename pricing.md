@@ -12,7 +12,7 @@ Here are the current pricing plans:
 | :---:       |     :---:      |         :---: |           :---: |
 | `Basic Anime and Anime Movies Only Package`  | **5$**    | **50$**    | **1**   |
 | `Basic TV Shows and Movies Only Package`    | **10$**     | **100$**      | **1**     |
-| `Basic Anime, Anime Movies, TV Shows and Movies Package`  | **13$**    | **120$**    | **1**   |
+| `Basic Anime, Anime Movies, TV Shows and Movies Package`  | **13$**    | **130$**    | **1**   |
 | `Basic Other Only Package`    | **7$**       | **70$**      | **1**     |
 | `Family Anime and Anime Movies Only Package`  | **15$**     | **150$**   | **4**   |
 | `Family TV Shows and Movies Only Package`    | **25$**      | **250$**      | **4**     |
