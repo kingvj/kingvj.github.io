@@ -8,7 +8,7 @@ filename: pricing.md
 
 Here are the current pricing plans:
 
-| Services | Monthly Price | Yearly Price | # of Simultaneous Streams |
+| **Services** | **Monthly Price** | **Yearly Price** | **# of Simultaneous Streams** |
 | :---         |     :---:      |         :---: |           :---: |
 | Basic Anime and Anime Movies Only Package  | 5$     | 50$    | 1   |
 | Basic TV Shows and Movies Only Package    | 10$      | 100$      | 1     |
