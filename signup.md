@@ -60,24 +60,24 @@ You can sign up for the service of your choice by doing the following steps:
 </form>
 
 ### Family Anime and Anime Movies Only Package
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="4RTHVH3SSFSWS">
+<input type="hidden" name="hosted_button_id" value="653REX97D4H3W">
 <table>
 <tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 </table>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 ### Family Anime, Anime Movies, TV Shows and Movies Package
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5E2HBSH7DYMXC">
+<input type="hidden" name="hosted_button_id" value="6LXHSWQ7JJTR6">
 <table>
 <tr><td><input type="hidden" name="on0" value="Plex Email">Plex Email</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 </table>
-<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input style="display: block; margin: 0 auto;" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
