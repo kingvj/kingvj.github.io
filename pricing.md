@@ -6,13 +6,17 @@ filename: pricing.md
 
 ## Pricing
 
-Here is the current pricing plans:
+Here are the current pricing plans:
 
-- Anime and Anime Movies Only: <b>5$ per Month</b>
-- TV Shows and Movies Only: <b>10$ per Month</b> or <b>100$ per Year</b>
-- Anime, Anime Movies, TV Shows and Movies: <b>13$ per Month</b>
-- Other Only: <b>7$ per Month</b>
-
+| Services | Monthly Price | Yearly Price | # of Simultaneous Streams |
+| :---         |     :---:      |         :---: |           :---: |
+| Basic Anime and Anime Movies Only Package  | 5$     | 50$    | 1   |
+| Basic TV Shows and Movies Only Package    | 10$      | 100$      | 1     |
+| Basic Anime, Anime Movies, TV Shows and Movies Package  | 13$    | 120$    | 1   |
+| Basic Other Only Package    | 7$       | 70$      | 1     |
+| Family Anime and Anime Movies Only Package  | 15$     | 150$   | 4   |
+| Family TV Shows and Movies Only Package    | 25$      | 250$      | 4     |
+| Family Anime, Anime Movies, TV Shows and Movies Package  | 30$     | 300$    | 4   |
 
 
 To sign up for a service, [click here](signup.md)
